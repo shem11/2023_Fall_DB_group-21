@@ -1,7 +1,6 @@
 # 2023_Fall_DB_group 21 HW3
 
 ## Group Members:
-<hr>
 
 - Shemar Allen: allens21@students.ecu.edu
 - Ryan Josh Villaluz: villaluzr20@students.ecu.edu
