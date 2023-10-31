@@ -8,5 +8,6 @@
 
 ## Quick Start:
 After installing the project, run the following command in your terminal:
+
 ```pip install flask psycopg2```
 
